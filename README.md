@@ -22,7 +22,7 @@
 
 - 🎓 Pursuing **B.E. in Computer Engineering** at Government Engineering College, Palanpur (GTU) — expected 2027
 - 💡 Passionate about **AI-powered solutions**, having competed in national & global hackathons (Smart India Hackathon, UNESCO Global Youth Hackathon)
-- 🧪 Currently sharpening skills in **Machine Learning, NLP, and Deep learning**
+- 🧪 Currently sharpening skills in **Machine Learning, NLP, and Data Analysis**
 - 🌱 Recently completed an **AICTE-approved AI internship** with the Edunet Foundation
 - 📫 Reach me at **armanfatavat111@gmail.com**
 - 🌐 Languages: Gujarati, Hindi, English
@@ -74,6 +74,7 @@
   </tr>
 </table>
 
+> 💡 Replace `PROJECT_LINK` with your actual repo names, and pin these two (plus any new ones) under "Customize your pins" on your profile.
 
 ---
 
@@ -97,7 +98,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=armanfatavat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanfatavat&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=armanfatavat&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
