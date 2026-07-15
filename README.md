@@ -107,7 +107,7 @@ Currently, I'm focused on strengthening my Machine Learning fundamentals while d
 - Deep Learning
 - MLOps
 - Agentic Ai
-_ Genrative Ai
+- Genrative Ai
 ---
 
 ## 🎯 Goals
