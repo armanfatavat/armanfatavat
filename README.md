@@ -105,10 +105,9 @@ Currently, I'm focused on strengthening my Machine Learning fundamentals while d
 
 - Machine Learning
 - Deep Learning
-- Data Structures & Algorithms
-- Model Deployment with Flask
 - MLOps
-
+- Agentic Ai
+_ Genrative Ai
 ---
 
 ## 🎯 Goals
